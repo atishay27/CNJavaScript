@@ -1,0 +1,104 @@
+[
+  {
+    "firstName": "Miranda",
+    "lastName": "Jennings",
+    "age": 33,
+    "eyeColor": "brown",
+    "gender": "female",
+    "company": "COFINE",
+    "email": "mirandajennings@cofine.com",
+    "address": {
+      "houseNumber": 544,
+      "street": "Colonial Court",
+      "city": "Sutton",
+      "state": "Texas",
+      "postalCode": 1879
+    },
+    "registered": "2014-12-26T08:22:49 -06:-30"
+  },
+  {
+    "firstName": "Miles",
+    "lastName": "Knight",
+    "age": 39,
+    "eyeColor": "blue",
+    "gender": "male",
+    "company": "SECURIA",
+    "email": "milesknight@securia.com",
+    "address": {
+      "houseNumber": 124,
+      "street": "Wyckoff Street",
+      "city": "Remington",
+      "state": "South Dakota",
+      "postalCode": 1269
+    },
+    "registered": "2022-01-28T05:29:04 -06:-30"
+  },
+  {
+    "firstName": "Hester",
+    "lastName": "Simpson",
+    "age": 37,
+    "eyeColor": "brown",
+    "gender": "female",
+    "company": "IDETICA",
+    "email": "hestersimpson@idetica.com",
+    "address": {
+      "houseNumber": 316,
+      "street": "Apollo Street",
+      "city": "Ventress",
+      "state": "Virgin Islands",
+      "postalCode": 8329
+    },
+    "registered": "2018-07-16T06:20:34 -06:-30"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Herman",
+    "age": 25,
+    "eyeColor": "brown",
+    "gender": "female",
+    "company": "PURIA",
+    "email": "isabellaherman@puria.com",
+    "address": {
+      "houseNumber": 737,
+      "street": "Herkimer Street",
+      "city": "Caberfae",
+      "state": "American Samoa",
+      "postalCode": 2892
+    },
+    "registered": "2023-02-19T12:05:34 -06:-30"
+  },
+  {
+    "firstName": "Christa",
+    "lastName": "Buckner",
+    "age": 31,
+    "eyeColor": "green",
+    "gender": "female",
+    "company": "ZYTRAX",
+    "email": "christabuckner@zytrax.com",
+    "address": {
+      "houseNumber": 260,
+      "street": "Garden Street",
+      "city": "Hollins",
+      "state": "South Carolina",
+      "postalCode": 7135
+    },
+    "registered": "2015-07-22T06:36:20 -06:-30"
+  },
+  {
+    "firstName": "Massey",
+    "lastName": "Hernandez",
+    "age": 39,
+    "eyeColor": "brown",
+    "gender": "male",
+    "company": "HATOLOGY",
+    "email": "masseyhernandez@hatology.com",
+    "address": {
+      "houseNumber": 836,
+      "street": "Royce Street",
+      "city": "Denio",
+      "state": "Ohio",
+      "postalCode": 2606
+    },
+    "registered": "2016-02-10T10:55:20 -06:-30"
+  }
+]
